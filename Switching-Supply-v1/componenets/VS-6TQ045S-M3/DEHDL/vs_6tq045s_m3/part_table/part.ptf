@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'VS_6TQ045S_M3'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "VS-6TQ045S-M3" (!) = "", "VS6TQ045SM3", "Other", "78-VS-6TQ045S-M3", "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/VS-6TQ045S-M3?qs=3SS1MhAOHqoxROiyL7Qyxg%3D%3D", "Diode Schottky 45V 6A 3-Pin(2+Tab) D2PAK Tube", "http://www.vishay.com/docs/94945/vs-6tqs-m3.pdf", "4.83 mm"
+END_PART
+
+END.

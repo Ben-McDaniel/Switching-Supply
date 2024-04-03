@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "VS-6TQ045S-M3"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-04-30-10:07:23)
+    (mountForm default
+        (footprintRef "VS6TQ045SM3")
+        (spec "System")
+    )
+)
